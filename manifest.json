@@ -1,0 +1,8 @@
+{
+  "short_name": "Jen DiPietro",
+  "name": "Lighthouse Talent by Jen DiPietro",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
