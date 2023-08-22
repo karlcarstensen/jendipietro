@@ -1,7 +1,10 @@
-import './App.css';
+import React from 'react'
+
 import Footer from './Footer';
 import Header from './Header';
 import Instagram from './Instagram';
+
+import './App.css';
 
 function App() {
   return (
